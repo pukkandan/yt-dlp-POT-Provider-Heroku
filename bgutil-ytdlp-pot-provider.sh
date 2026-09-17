@@ -1,2 +1,2 @@
 #!/bin/sh
-node build/main.js --port $PORT
+node build/main.js --host 0.0.0.0 --port $PORT
